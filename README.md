@@ -1,6 +1,13 @@
 # KaliCommands
 Repository for making WSL and Windows one. 
 
+The goal of this project is to instead of just run windows versions of apps, instead run their correct versions through WSL but have them feel native and running through windows. Giving us much more flexibility. 
+
+<p align="center">
+  <img src="static/WSLToWindows.gif">
+</p>
+
+
 ### Installation
 Well you should already have WSL installed so I guess just make sure for now y ou have git installed on the wsl machine.
 
