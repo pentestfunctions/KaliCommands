@@ -17,4 +17,14 @@ wsl git clone https://github.com/pentestfunctions/KaliCommands.git /mnt/c/KaliCo
 ```
 - Run that directly in a standard windows terminal. 
 
+2 Extra files come with it:
+```
+GraphicalFix.bat
+SetPowershellAsDefaultApplication.bat
+```
+
+Just run both of them as administrator inside the C:\KaliCommands\Scripts folder
+1. GraphicalFix fixes some GUI issues with WSL applications (If you get glitches).
+2. SetPowershellAsDefaultApplication will allow you to double click powershell files to execute them. 
+
 Now in your windows file explorer just navigate to `C:\KaliCommands` and access the programs/tools in there.
