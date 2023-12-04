@@ -28,3 +28,14 @@ Just run both of them as administrator inside the C:\KaliCommands\Scripts folder
 2. SetPowershellAsDefaultApplication will allow you to double click powershell files to execute them. 
 
 Now in your windows file explorer just navigate to `C:\KaliCommands` and access the programs/tools in there.
+
+
+More ideas:
+```bash
+wsl zsteg -e $file
+wsl exiv2 $file
+wsl exiftool $file
+wsl foremost -i $file
+wsl binwalk -e $file
+wsl strings $file
+```
